@@ -1,2 +1,2 @@
-# computaci-n-blanda
+# computacion-blanda
 Repositorio de la materia Computación Blanda - Sistemas - UTP - Pereira
